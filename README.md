@@ -15,7 +15,7 @@ Convex Hull merupakan salah satu persoalan geometri yang bertujuan untuk mencari
 
 ## Cara Menjalankan Program
 
-1. Download file zip program kemudian buka file main.ipynb yang berada di dalam folder src pada IDE
+1. Download file zip program kemudian buka file main.ipynb yang berada di dalam folder src pada VS Code, Google Colab, atau Jupyter Notebook
 2. Jalankan kode teratas kemudian masukkan pilihan dataset serta 2 kolom yang ingin digunakan (masukan dalam bentuk angka)
 3. Jalankan satu persatu kode di bawahnya dimulai dari kode teratas hingga kode terbawah
 4. Hasil visualisasi Convex Hull library scipy ditampilkan pada kode ke-2 dari atas sedangkan hasil visualisasi Convex Hull program utama ditampilkan pada kode terbawah
